@@ -21,7 +21,7 @@ abcdefghijklmnopqrstuvwxyz
 p  = 18
 fs = 28
 
-savePDF = False
+savePDF = True
 
 proofName = f'avar2-original-compare.pdf'
 pdfPath = os.path.join(os.getcwd(), proofName)
